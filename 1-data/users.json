@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "fullname": "ilie beracha",
+        "email": "ilieberacha123@gmail.com",
+        "phone": "0544868495"
+    },
+    {
+        "id": 2,
+        "fullname": "tami beracha",
+        "email": "tamiber@gmail.com",
+        "phone": "0545219579"
+    },
+    {
+        "id": 3,
+        "fullname": "agat grait",
+        "email": "agatmalchin@gmail.com",
+        "phone": "0507660604"
+    }
+]
